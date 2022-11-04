@@ -1,3 +1,5 @@
+/*Take some nnumbers as input from the user then find out the prime numbers and store them in an array
+Then sort them in ascending order. */
 package Codes;
 
 import java.util.*;
