@@ -1,7 +1,6 @@
 /* 
  Show an exception handling program with multiple catch in java
  */
-
 package Codes;
 
 class Problem_no_3
