@@ -1,7 +1,6 @@
 /*
  Write a program in java and show exception handling and show the use of finally block
  */
-
 package Codes;
 
 class Problem_no_5
