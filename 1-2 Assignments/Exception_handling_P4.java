@@ -1,3 +1,9 @@
+/*
+ Write a java program to create a custom exception then show a message to restrict the age 
+number for voting.
+
+*/
+
 package Codes.exception_handling;
 
 import java.net.SocketPermission;
