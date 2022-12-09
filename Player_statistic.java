@@ -1,3 +1,9 @@
+/*
+Create a program in java that will take 3 inputs of football players. Inputs are: name, age, 
+country, goal scored, distance covered. Then it’ll print all info along with total match played, 
+average goal scored, average distance covered and average speed.
+*/
+
 import java.util.*;
 
 public class Player_statistic
