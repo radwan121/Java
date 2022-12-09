@@ -1,7 +1,6 @@
 /*
 Show an exception handling program and handle the exception using try catch
 */
-
 package Codes;
 
 class Problem_no_2
