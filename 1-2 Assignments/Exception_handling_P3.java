@@ -1,3 +1,7 @@
+/*
+ Write a java program show the exception propagation for checked exception
+*/
+
 package Codes.exception_handling;
 
 import java.io.IOException;
