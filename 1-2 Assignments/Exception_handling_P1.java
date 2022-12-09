@@ -1,3 +1,7 @@
+/*
+Write a java program to demonstrate the use of throw keyword
+*/
+
 package Codes.exception_handling;
 
 public class Exception_handling_P1
