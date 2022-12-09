@@ -1,3 +1,7 @@
+/*
+Write a java program show the exception propagation for unchecked exception.
+*/
+
 package Codes.exception_handling;
 
 public class Exception_handling_P2 
